@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=500&color=000078DE&background=FEFEFE&center=true&vCenter=true&random=true&width=436&height=57&lines=Mohamed+Abdelwahed;SOC+Analyst;BPM IBM" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=500&color=000078DE&background=FEFEFE&center=true&vCenter=true&random=true&width=436&height=57&lines=Mohamed+Abdelwahed;SOC+Analyst;BPM+IBM" />
 </p>
 
 ## 🌐 Connect with Me
